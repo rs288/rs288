@@ -14,7 +14,7 @@
 
 Soy un ingeniero de software, entusiasta del código abierto y Linux
 
-- 🔭 Actualmente estoy trabajando en mis paginas web (<devrs.xyz> y recetabase.xyz)
+- 🔭 Actualmente estoy trabajando en mi [web personal](devrs.xyz) y [mi sitio web de cocina](recetabase.xyz)
 - 🌱 Actualmente estoy aprendiendo **Desarrollo web y Scripting**
 - 📫 Cómo comunicarse conmigo: davids2804@pm.me
 
