@@ -19,8 +19,6 @@ Soy un ingeniero de software, entusiasta del código abierto y Linux
 - 📫 Cómo comunicarse conmigo: davids2804@pm.me
 - ⚡ Dato curioso: 
 
-<h4 align="center">Top langs </h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs288&langs_count=10&theme=tokyonight&layout=compact" alt="rs288 :: Top Langs" /></p>
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs288&langs_count=10&theme=tokyonight&layout=compact" alt="rs288 :: Top Langs" />-->
 
  
