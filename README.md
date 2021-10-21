@@ -1,10 +1,6 @@
-### Hi there 👋
+### ¡Hola, mi nombre es Rodrigo!
 
 <!--
-**rs288/rs288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +9,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+:computer: Línea de código más utilizada `git commit -m "Initial Commit"`
 -->
+
+Soy un ingeniero de software, entusiasta del código abierto y Linux
+
+- 🔭 Actualmente estoy trabajando en mis paginas web (devrs.xyz y recetabase.xyz)
+- 🌱 Actualmente estoy aprendiendo Desarrollo web y Scripting
+- 📫 Cómo comunicarse conmigo: davids2804@pm.me
+- ⚡ Dato curioso: 
+
+<h4 align="center">Top langs </h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rs288&langs_count=10&theme=tokyonight&layout=compact" alt="rs288 :: Top Langs" /></p>
+
+ 
